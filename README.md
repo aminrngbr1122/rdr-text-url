@@ -20,6 +20,6 @@ value url لینک وب سایتی که میخواید بهش ریدایرکت �
 
 # یه اسکرین از پروژه :
 
-<img src="https://photo20.ir/images/zaemng4ttxe6whipzcw.png"></img>
+<img style="border-radius:30px;" src="https://photo20.ir/images/zaemng4ttxe6whipzcw.png"></img>
 
 و تمام ❤ 
